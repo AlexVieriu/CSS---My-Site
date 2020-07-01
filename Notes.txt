@@ -11,3 +11,29 @@ https://www.favicon.cc/
     CTRL+ hover the box in Chrome
     <div>       : content division element
     h1, body    : have default margin, padding values
+
+46. Box Model
+    -> margin
+    -> border
+    -> padding
+
+http://markusvogl.com/web1/interactive_box_model/css_box_demo.html
+
+ex: 3 boxes 200x200px
+    1st box: 10px border, 20px padding
+    2nd box: 20px border
+    3rd box: 10px border
+
+47. Css Display Property
+-> block        : p, h1...h6, div, ol, ul, li, form
+-> inline       : img, span, a
+-> inline-block :
+-> none         :
+
+span{
+    text-decoration: underline;
+    visibility: hidden;
+    display: block;
+}
+
+48. CSS Static and Relative Positioning

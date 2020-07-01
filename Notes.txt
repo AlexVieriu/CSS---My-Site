@@ -1,0 +1,11 @@
+43. 
+-> index.html
+-> css/styles.css
+-> link one to each other
+
+44. What are favicons?
+https://www.favicon.cc/
+<link rel="icon" href="img/favicon.ico">
+
+45. HTML Divs
+    CTRL+ hover the box in Chrome

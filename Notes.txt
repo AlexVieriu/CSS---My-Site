@@ -36,4 +36,24 @@ span{
     display: block;
 }
 
-48. CSS Static and Relative Positioning
+49. CSS Static and Relative Positioning
+-> the child stays on top of the mother
+<div>
+    <h1>a<span>pro</span>grammer</h1>
+</div>
+
+Position:   -> Static       : default
+            -> Relative     : left:30px -> let 30px left(move 30px rigth) from the initial position
+                              doesn't effect the position of another Box and when positioning the box, 
+                              it comes in front of the other box(7:11)
+            -> Absolute     :
+            -> Fixed        :
+ex: 3 box, red, blue, yello, 100px
+    position them one after the other : blue, yellow, red
+
+50. Absolute Position
+ex: 3 boxes: yellow, blue, red -> corner to corner
+
+position: Fixed
+
+51. The Dark art of Centering Elements in CSS

@@ -9,3 +9,5 @@ https://www.favicon.cc/
 
 45. HTML Divs
     CTRL+ hover the box in Chrome
+    <div>       : content division element
+    h1, body    : have default margin, padding values

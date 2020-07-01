@@ -57,3 +57,11 @@ ex: 3 boxes: yellow, blue, red -> corner to corner
 position: Fixed
 
 51. The Dark art of Centering Elements in CSS
+Centering:  
+            -> without width ( text-align : center;)
+            -> with width (
+                            width: 10%;
+                            margin: 0 auto;     
+                           )
+
+52. Font Styling in Our Personal Site

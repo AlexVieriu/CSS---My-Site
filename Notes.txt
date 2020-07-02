@@ -84,3 +84,10 @@ https://giphy.com/
 55. Css Sizing
 
 100% = 16px = 1em
+
+59. CSS font Property 
+font-weight: normal;
+line-height: 2;
+
+
+60. CSS Float and Clear

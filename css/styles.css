@@ -2,7 +2,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: Mukta, serif;
-  line-height: 2;
 }
 h1 {
   color: #66bfbf;
@@ -45,4 +44,23 @@ a {
 .buttom-cloud {
   margin-top: 0;
   position: absolute;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.programmer{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.triathlon{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
 }

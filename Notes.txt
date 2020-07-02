@@ -76,4 +76,11 @@ Section 8 -> 102.Understandiung Typography and How to Choose a Font
 https://www.canva.com/
 
 54. Adding Content to our WebSite
+
 https://loremipsum.io/      : generate random text
+https://www.flaticon.com/
+https://giphy.com/
+
+55. Css Sizing
+
+100% = 16px = 1em

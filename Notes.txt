@@ -65,3 +65,15 @@ Centering:
                            )
 
 52. Font Styling in Our Personal Site
+
+https://www.cssfontstack.com/ 
+https://fonts.google.com/       : Indie Flower, 
+                                  Montserrat Alternates, 
+                                  Mukta
+
+53. Learn More About Typography
+Section 8 -> 102.Understandiung Typography and How to Choose a Font 
+https://www.canva.com/
+
+54. Adding Content to our WebSite
+https://loremipsum.io/      : generate random text

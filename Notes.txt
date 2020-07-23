@@ -115,6 +115,6 @@ p{
 }
 
 61. CSS Challenge
-https://www.frontendmentor.io/  : more practice
+https://www.frontendmentor.io/  : more practice(HTML, CSS, JS6)
 
 
